@@ -1,0 +1,6 @@
+framework module Pods_KifExample_KifExampleUITests {
+  umbrella header "Pods-KifExample-KifExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
